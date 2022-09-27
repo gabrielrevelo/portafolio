@@ -6,19 +6,20 @@ module.exports = {
   },
   daisyui: {
     themes: [
-      {
-        mytheme: {
-          primary: "#D90429",
-          secondary: "#8D99AE",
-          accent: "#EF233C",
-          neutral: "#2B2D42",
-          "base-100": "#EDF2F4",
-          info: "#3ABFF8",
-          success: "#36D399",
-          warning: "#FBBD23",
-          error: "#F87272",
-        },
-      },
+      // {
+      //   mytheme: {
+      //     primary: "#D90429",
+      //     secondary: "#8D99AE",
+      //     accent: "#EF233C",
+      //     neutral: "#2B2D42",
+      //     "base-100": "#EDF2F4",
+      //     info: "#3ABFF8",
+      //     success: "#36D399",
+      //     warning: "#FBBD23",
+      //     error: "#F87272",
+      //   },
+      // },
+      "emerald",
     ],
   },
   plugins: [require("daisyui")],

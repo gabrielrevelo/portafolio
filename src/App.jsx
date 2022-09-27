@@ -1,7 +1,15 @@
+import Main from "./Main/Main";
+import Skills from "./Skills/Skills";
+import Projects from "./Projects/Projects";
+import Contact from "./Contact/Contact";
+
 function App() {
   return (
-    <div className="container mx-auto min-h-screen">
-      <button className="btn">Portafolio</button>
+    <div className="min-h-screen">
+        <Main />
+        <Skills />
+        <Projects />
+        <Contact />
     </div>
   );
 }
