@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.0682c484.css",
+    "main.js": "/portafolio/static/js/main.d142b860.js",
+    "static/media/Profile.jpeg": "/portafolio/static/media/Profile.08934a8960524c95a518.jpeg",
+    "static/media/GranBuda.png": "/portafolio/static/media/GranBuda.1e7e022d8fdf51cdfd8a.png",
+    "static/media/HenryFood.png": "/portafolio/static/media/HenryFood.3e68fe04d69493de7905.png",
+    "static/media/MedicApp.png": "/portafolio/static/media/MedicApp.9afa449975301ace35c9.png",
+    "index.html": "/portafolio/index.html",
+    "main.0682c484.css.map": "/portafolio/static/css/main.0682c484.css.map",
+    "main.d142b860.js.map": "/portafolio/static/js/main.d142b860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0682c484.css",
+    "static/js/main.d142b860.js"
+  ]
+}
