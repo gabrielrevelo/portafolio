@@ -25,7 +25,7 @@ function Contact() {
   };
 
   return (
-    <div className="p-8 text-center flex flex-col justify-center items-center gap-10">
+    <div className="p-8 text-center flex flex-col justify-center items-center gap-10" id="contact">
       <h1>Contactame</h1>
       <form
         ref={form}

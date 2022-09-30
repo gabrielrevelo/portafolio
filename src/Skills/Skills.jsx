@@ -2,7 +2,10 @@
 
 function Skills() {
   return (
-    <div className="text-white p-8 bg-secondary text-center flex flex-col justify-center items-center gap-10">
+    <div
+      className="text-white p-8 bg-secondary text-center flex flex-col justify-center items-center gap-10"
+      id="skills"
+    >
       <h1>Habilidades</h1>
       <div className="flex gap-2">
         <Frame
