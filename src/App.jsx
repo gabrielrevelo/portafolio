@@ -8,12 +8,10 @@ function App() {
   return (
     <div className="min-h-screen">
       <NavBar />
-      <div className="h-[calc(100vh-64px)] overflow-y-scroll scroll-smooth">
-        <Main />
-        <Skills />
-        <Projects />
-        <Contact />
-      </div>
+      <Main />
+      <Skills />
+      <Projects />
+      <Contact />
     </div>
   );
 }
